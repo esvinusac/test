@@ -1,4 +1,5 @@
 char to_ascii(int codigo)
 {
-   return codigo*65;
+   //increment by 10
+   return codigo*65 + 10;
 }
