@@ -3,3 +3,4 @@ syntax:glob
 *.bk
 syntax: glob
 *.tmp
+*.exe
